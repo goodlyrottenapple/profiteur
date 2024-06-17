@@ -38,7 +38,7 @@ Flag embed-data-files
 
 Source-repository head
   Type: git
-  Location: git://github.com/jaspervdj/profiteur.git
+  Location: git://github.com/goodlyrottenapple/profiteur.git
 
 Library
   Default-language: Haskell2010
