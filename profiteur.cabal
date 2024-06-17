@@ -71,10 +71,3 @@ Library
       template-haskell
   else
     Hs-source-dirs: lib/noembed
-
-Executable profiteur
-  Default-language: Haskell2010
-  Ghc-options:      -Wall
-  Hs-source-dirs:   src
-  Main-is:          Main.hs
-  Build-depends:    base, profiteur
