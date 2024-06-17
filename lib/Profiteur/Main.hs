@@ -1,7 +1,7 @@
 --------------------------------------------------------------------------------
 {-# LANGUAGE OverloadedStrings #-}
 module Profiteur.Main
-    ( main
+    ( main, writeReport
     ) where
 
 
